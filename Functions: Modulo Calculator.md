@@ -26,4 +26,4 @@ result(num1,num2)
 
 ## Result
 
-Thus,a Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator
+Thus,a Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator is executed successfully.
